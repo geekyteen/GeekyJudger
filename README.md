@@ -5,7 +5,7 @@ GeekyJudger is leading a new age in judging user apps. This can be used in OI/AC
 
 --------------------
 
-* `images/judge/normal` The image of the judger container in normal mode. (User app have **root** access to the container and you can ch
+* `images/judge/normal` The image of the judger container in normal mode. (User app have **root** access to the container and you can change whether the user app can use network.
 * `images/judge/strict` The image of the judger container in strict mode. (User app do not have any permission to do any thing except calculating.)
 
 License
